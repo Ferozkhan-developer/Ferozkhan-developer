@@ -1,3 +1,4 @@
+![logo](https://github.com/Ferozkhan-developer/Ferozkhan-developer/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Feroz Khan Sukoo</h1>
 <h3 align="center">A passionate web developer , data scientist and Ai Expert</h3>
 <img align="right" width="400px" alt="ARTIFICIAL INTELEGENCE" src="https://www.crossovertraining.in/wp-content/uploads/2019/11/artificial-intelligence.gif">
